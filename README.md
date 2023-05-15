@@ -1,8 +1,6 @@
 # Todos App Version2
 
 ## Project setup
-Use: ```NodeJS & VueJS```
-
 Version Node: ```v18.15.0```
 
 Client
